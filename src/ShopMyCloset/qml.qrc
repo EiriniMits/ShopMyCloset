@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BackButton.qml</file>
+        <file>SaveButton.qml</file>
+        <file>main.cpp</file>
+        <file>message.cpp</file>
+        <file>message.h</file>
+        <file>LoginForm.qml</file>
+        <file>ViewClothes.qml</file>
+        <file>AddClothes.qml</file>
+        <file>ChooseColors.qml</file>
+        <file>ChooseMaterials.qml</file>
+        <file>AdministratorMainForm.qml</file>
+        <file>UserMainForm.qml</file>
+        <file>BuyForm.qml</file>
+        <file>clientsmodel.cpp</file>
+        <file>clientsmodel.h</file>
+        <file>clients.cpp</file>
+        <file>clients.h</file>
+        <file>ClientsList.qml</file>
+        <file>ViewClientsInfo.qml</file>
+        <file>membersmodel.cpp</file>
+        <file>membersmodel.h</file>
+        <file>members.cpp</file>
+        <file>members.h</file>
+        <file>clothes.cpp</file>
+        <file>clothes.h</file>
+        <file>clothesmodel.cpp</file>
+        <file>clothesmodel.h</file>
+        <file>ViewClothesAdmin.qml</file>
+        <file>EditClothes.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/ok.png</file>
+        <file>images/cameraIcon.png</file>
+        <file>images/Add-Bag-icon.png</file>
+        <file>images/Add-icon.png</file>
+        <file>images/arrow-45-128.png</file>
+        <file>images/arrow-back-128.png</file>
+        <file>images/arrow-up-5-xxl.png</file>
+        <file>images/closet.jpeg</file>
+        <file>images/color-wheel-target.svg</file>
+        <file>images/done.png</file>
+        <file>images/dress.png</file>
+        <file>images/hmprod-1.jpeg</file>
+        <file>images/hmprod-2.jpeg</file>
+        <file>images/hmprod-3.jpeg</file>
+        <file>images/hmprod-4.jpeg</file>
+        <file>images/hmprod.jpeg</file>
+        <file>images/login-icon.jpeg</file>
+        <file>images/paint.png</file>
+        <file>images/Pattern.png</file>
+        <file>images/SHOP MY CLOSET.png</file>
+        <file>images/Signup.png</file>
+        <file>images/logout.jpeg</file>
+        <file>images/buy-now.png</file>
+        <file>images/submit.jpg</file>
+        <file>images/notification.png</file>
+        <file>images/hmprod-5.jpeg</file>
+        <file>images/Edit-icon.png</file>
+        <file>images/trash-icon.png</file>
+    </qresource>
+</RCC>
