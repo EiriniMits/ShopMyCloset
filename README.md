@@ -26,6 +26,4 @@ Log in accounts to enter application as administrator and as user respectively
 
 <img width="720" alt="screen shot 2017-11-09 at 10 43 32 am" src="https://user-images.githubusercontent.com/16197563/32596162-0290957a-c53b-11e7-9e07-510ce405ed11.png">
 
-<img width="720" alt="screen shot 2017-11-09 at 11 01 07 am" src="https://user-images.githubusercontent.com/16197563/32596832-5ab4aaf0-c53d-11e7-892c-b08d928d9ac5.png">
-
-<img width="720" alt="screen shot 2017-11-09 at 10 32 58 am" src="https://user-images.githubusercontent.com/16197563/32595972-704c8a0c-c53a-11e7-9fe3-3009b4c75135.png">
+<img width="360" height="350" alt="screen shot 2017-11-09 at 11 01 07 am" src="https://user-images.githubusercontent.com/16197563/32596832-5ab4aaf0-c53d-11e7-892c-b08d928d9ac5.png"><img width="360" height="350" alt="screen shot 2017-11-09 at 10 32 58 am" src="https://user-images.githubusercontent.com/16197563/32595972-704c8a0c-c53a-11e7-9fe3-3009b4c75135.png">
