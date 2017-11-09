@@ -1,5 +1,3 @@
-# ShopMyCloset
-
 <img width="720" alt="screen shot 2017-11-09 at 10 26 57 am" src="https://user-images.githubusercontent.com/16197563/32595424-9a4d64ae-c538-11e7-9324-64078e4ca670.png">
 
 Log in accounts to enter application as administrator and as user respectively
