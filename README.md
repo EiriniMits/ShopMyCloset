@@ -1,9 +1,15 @@
 <img width="720" alt="screen shot 2017-11-09 at 10 26 57 am" src="https://user-images.githubusercontent.com/16197563/32595424-9a4d64ae-c538-11e7-9324-64078e4ca670.png">
 
-Log in accounts to enter application as administrator and as user respectively
-* Administrator account ->  Email: admin@yahoo.com  Password: admin
+A Qt application for selling second-hand clothes!
 
-* User account          ->  Email: user@yahoo.com   Password: user
+Through the application called 'Shop My Closet' the administrator has the ability to sell second-hand clothes that come from his wardrobe and are in good condition to prospective customers. Thus, admin can add clothing for sale (delete or process any piece of information that relates to each item) and also see orders with the details of each customer. On the other hand, the user can see all the available clothes for sale and order the clothes of his choice by filling out a form with the details of his order.
+
+* Log in accounts to enter application as administrator and as user respectively
+```
+Administrator account ->  Email: admin@yahoo.com  Password: admin
+
+User account          ->  Email: user@yahoo.com   Password: user
+```
 
 <img width="720" alt="screen shot 2017-11-09 at 10 29 10 am" src="https://user-images.githubusercontent.com/16197563/32597274-d73087ce-c53e-11e7-9c07-314fb63bf226.png">
 
