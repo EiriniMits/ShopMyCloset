@@ -13,7 +13,7 @@ User account          ->  Email: user@yahoo.com   Password: user
 
 <img width="720" alt="screen shot 2017-11-09 at 10 29 10 am" src="https://user-images.githubusercontent.com/16197563/32597274-d73087ce-c53e-11e7-9c07-314fb63bf226.png">
 
-* Log in as Administrator
+## Log in as Administrator
 
 <img width="720" alt="screen shot 2017-11-09 at 10 29 37 am" src="https://user-images.githubusercontent.com/16197563/32595658-674bcaa4-c539-11e7-9e63-429e6c763e1c.png">
 
@@ -26,7 +26,7 @@ User account          ->  Email: user@yahoo.com   Password: user
 <img width="360" height="350" alt="screen shot 2017-11-09 at 10 32 17 am" src="https://user-images.githubusercontent.com/16197563/32595672-6b4327f6-c539-11e7-835c-06d76712f85d.png"><img width="360" height="350" alt="screen shot 2017-11-09 at 10 44 05 am" src="https://user-images.githubusercontent.com/16197563/32596166-03cfe67a-c53b-11e7-9968-a96aff0096df.png">
 
 
-* Log in as User
+## Log in as User
 
 <img width="720" alt="screen shot 2017-11-09 at 10 43 32 am" src="https://user-images.githubusercontent.com/16197563/32596162-0290957a-c53b-11e7-9e07-510ce405ed11.png">
 
