@@ -2,7 +2,7 @@
 
 A Qt application for selling second-hand clothes!
 
-Through the application, administrator can easily sell second-hand clothes, that come from his wardrobe and are in good condition, to prospective customers. Thus, admin can add new clothes for sale and check orders with the contact details of each customer. On the other hand, user can see all the available clothes for sale and order the clothes of his choice by filling out a form with the details of his order.
+Through this application, the administrator can easily sell second-hand clothes to prospective customers. In more detail, the administrator can add new clothes for sale and check orders with the contact details of each customer. On the other hand, the user can see all the available clothes for sale and order the clothes of his/hers choice by filling out a form with the details of the order.
 
 * Log in accounts to enter application as administrator and user respectively
 ```
