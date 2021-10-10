@@ -1,5 +1,7 @@
 <img width="720" alt="screen shot 2017-11-09 at 10 26 57 am" src="https://user-images.githubusercontent.com/16197563/32595424-9a4d64ae-c538-11e7-9324-64078e4ca670.png">
 
+This project was created for academic purposes on the subject of 'Mobile and Portable Technologies' at the Aristotle University of Thessaloniki.
+
 A Qt application for selling second-hand clothes!
 
 Through this application, the administrator can easily sell second-hand clothes to prospective customers. In more detail, the administrator can add new clothes for sale and check orders with the contact details of each customer. On the other hand, the user can see all the available clothes for sale and order the clothes of his/hers choice by filling out a form with the details of the order.
